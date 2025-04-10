@@ -1,4 +1,4 @@
-# Self Driving Car 🛣🚗
+# Self Driving Car 🚗
 
 An advanced computer vision-based Self-Driving Car project using deep learning and object detection techniques including YOLOv9 and R-CNN.
 
