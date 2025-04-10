@@ -20,4 +20,4 @@ An advanced computer vision-based Self-Driving Car project using deep learning a
 - R-CNN
 - SAGAN
 
-##  Project Structure
+
