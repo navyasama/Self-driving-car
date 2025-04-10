@@ -1,0 +1,4 @@
+[console_scripts]
+run_fsd_inference = src.inference.run_fsd_inference:main
+run_segmentation = src.inference.run_segmentation_obj_det:main
+run_steering = src.inference.run_steering_angle_prediction:main

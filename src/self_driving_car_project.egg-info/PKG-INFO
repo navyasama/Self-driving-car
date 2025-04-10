@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: self_driving_car_project
+Version: 0.3
+Summary: A self-driving car project using computer vision and deep learning models
+Author: Balaij Chippada
+License: MIT
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.8
+Requires-Dist: tensorflow
+Requires-Dist: opencv-python
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: keras
+Requires-Dist: ultralytics
